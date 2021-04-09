@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @quantumichele
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @quantumichele, a MSc in Economics and Social Sciences with a strong passion for Health Economics from Italy.
+
+
+
+- 
+ 📫 How to reach me: michele.siciliano96@gmail.com
 
 <!---
 quantumichele/quantumichele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
